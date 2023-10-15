@@ -1,0 +1,10 @@
+C:\Users\marth\source\repos\diseñogimnasio\obj\Debug\diseñogimnasio.csproj.AssemblyReference.cache
+C:\Users\marth\source\repos\diseñogimnasio\obj\Debug\diseñogimnasio.Administracion_de_Gimnasio.mainform.resources
+C:\Users\marth\source\repos\diseñogimnasio\obj\Debug\diseñogimnasio.Properties.Resources.resources
+C:\Users\marth\source\repos\diseñogimnasio\obj\Debug\diseñogimnasio.csproj.GenerateResource.cache
+C:\Users\marth\source\repos\diseñogimnasio\obj\Debug\diseñogimnasio.csproj.CoreCompileInputs.cache
+C:\Users\marth\source\repos\diseñogimnasio\bin\Debug\diseñogimnasio.exe.config
+C:\Users\marth\source\repos\diseñogimnasio\bin\Debug\diseñogimnasio.exe
+C:\Users\marth\source\repos\diseñogimnasio\bin\Debug\diseñogimnasio.pdb
+C:\Users\marth\source\repos\diseñogimnasio\obj\Debug\diseñogimnasio.exe
+C:\Users\marth\source\repos\diseñogimnasio\obj\Debug\diseñogimnasio.pdb
